@@ -40,7 +40,10 @@
             "articles":{
                 "main": "Articole"
             },
-            "language": "Limbă"
+            "language": "Limbă",
+            "aboutUs": "Despre noi",
+            "clients": "Clienți",
+            "services": "Servicii"
         },
         "form": {
             "username": "Utilizator",

@@ -1,0 +1,9 @@
+{
+    "clients": {
+        "title": "Bun venit, pagina clienti!",
+        "subtitle": "Aceasta e pagina ta clienti",
+        "logged": {
+            "message": "Ești înregistrat ca și \"{{username}}\"."
+        }
+    }
+}
